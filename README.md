@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 About IndexTank Service
 =======================
 
@@ -19,7 +19,7 @@ Find out more about at: TBD
 
 Apache Public License (APL) 2.0
 
-<<<<<<< HEAD
+
 ### Components:
 
 1. API
